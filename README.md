@@ -1,2 +1,2 @@
 # Today-I-Learned
-먕먕먕
+먕
