@@ -25,7 +25,7 @@ System.out.println("like this");
 
 # Link
 
-[naver](https://www.naver.com])
+[naver](https://www.naver.com)
 
  [naver] (주소) 이런 식으로 두개를 붙여쓰면 생성 됨
 
